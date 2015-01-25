@@ -1,3 +1,4 @@
 ###Description:
 
 The purpose of this project is to model the quality of wines based on the physiochemical properties of the wine. The physiochemical test measures the presence of various chemicals such as alcohol, sulfur dioxide, chlorides, citric acids etc. Certain physical aspects of wines are also measured such as density in the tests. A large dataset containing almost 6500 instances of these physiochemical tests was used in order to model the quality of the wines. Various data mining techniques were used in order to classify the wines. Techniques such as neural networks, random forests and support vector machines showed the most promising results. Techniques such as k-nearest neighbors were also applied but the results were not as good as those of the other techniques. The models generated using weka can be used to predict the quality of wines.
+
