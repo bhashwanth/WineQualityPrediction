@@ -1,2 +1,1 @@
 # WineQualityPrediction
-bash
